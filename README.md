@@ -1,20 +1,13 @@
-# React haboilerplate
+# d3 hooky
 
-### Base for future React project with simple dependencies
+### Playing with d3 using React hooks
 
 ### To run the project
 
-- \$ git clone https://github.com/habin-isa/react-haboilerplate.git
-- \$ cd react-haboilerplate
+- \$ git clone https://github.com/habin-isa/d3-hooky.git
+- \$ cd d3-hooky
 - \$ yarn
 - \$ yarn start
-- Change name of remote and git remote to use as boilerplate for another project
-
-### Examples contained
-
-- Styled components
-- Jest testing
-- Proptypes
 
 ### Tech
 
